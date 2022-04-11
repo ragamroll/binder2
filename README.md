@@ -3,4 +3,8 @@
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ragamroll/binder2/HEAD)
 
 # notebook-view
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ragamroll/binder2/496c1be3d8d00417e6ae67d7c7644da9cb675073?urlpath=lab%2Ftree%2FFret_22_srutis_plotting.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ragamroll/binder2/HEAD?urlpath=lab%2Ftree%2FFret_22_srutis_plotting.ipynb)
+
+
+# Voilà
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ragamroll/binder2/HEAD?urlpath=voila%2Frender%2FFret_22_srutis_plotting.ipynb)
